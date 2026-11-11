@@ -248,8 +248,8 @@
       "C": "Auto",
       "D": "2"
     },
-    "answer": "A",
-    "explanation": "Rotary switch 152 (configuration/failure mode) is kept at position '1' (Normal) for standard driving operation."
+    "answer": "B",
+    "explanation": "Rotary switch 152 (configuration/failure mode) is kept at position '0' (Zero) for standard driving operation."
   },
   {
     "id": 19,
