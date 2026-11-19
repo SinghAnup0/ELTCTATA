@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to isolate panto No. 2 keep panto selector switch in......... position and close......... coc.",
+    "question_hi": "3Ø लोको में, पेंटो नंबर 2 को अलग-थलग रखने के लिए पेंटो सिलेक्टर स्विच ... पोजीशन और क्लोज ... कोक में रखें।",
+    "options": {
+      "A": "Auto, PAN-1 & 2",
+      "B": "II, PAN-1",
+      "C": "I, PAN-2",
+      "D": "I or II, PAN-1 or 2"
+    },
+    "answer": "C",
+    "explanation": "Placing panto selector switch 85/ZPT on position I raises only Pantograph-1, and isolating pneumatic cock PAN-2 prevents air from entering Pantograph-2 cylinder."
+  },
+  {
+    "id": 2,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø dead loco, ...... coc should be open for charging BP pressure into auxiliary reservoir.",
+    "question_hi": "3Ø मृत लोको में, ......। बीपी दबाव को सहायक जलाशय में चार्ज करने के लिए कोक खुला होना चाहिए।",
+    "options": {
+      "A": "70",
+      "B": "47",
+      "C": "74",
+      "D": "136"
+    },
+    "answer": "D",
+    "explanation": "In 3-phase locos fitted with CCB/E-70 brake systems, cock 136 (Dead Engine Cock) is opened to allow train BP pressure to charge the locomotive auxiliary reservoir for proportional braking."
+  },
+  {
+    "id": 3,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "While 3Ø loco working as banker, put on ......... switch and close 70 cut out cock.",
+    "question_hi": "3Ø लोको बैंकर के रूप में काम करते हुए, ......... स्विच ऑन करें और 70 कट आउट कॉक बंद करें।",
+    "options": {
+      "A": "ZTEL",
+      "B": "ZBAN",
+      "C": "BLHO",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "ZBAN is the Banking Operation Switch. Closing cock 70 isolates BP charging, and switching ON ZBAN prevents automatic penalty brake interventions during banking."
+  },
+  {
+    "id": 4,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "For resetting VCD in WAG 9 or WAP 7 loco, wait for ...........seconds.",
+    "question_hi": "WAG 9 या WAP 7 लोको में VCD को रीसेट करने के लिए, ......... Seconds का इंतजार करें।",
+    "options": {
+      "A": "120",
+      "B": "100",
+      "C": "240",
+      "D": "160"
+    },
+    "answer": "D",
+    "explanation": "The enforced penalty recovery time delay for the computerized Vigilance Control Device (VCD) in WAG-9 / WAP-7 is 160 seconds before the penalty brake can be reset."
+  },
+  {
+    "id": 5,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-17 belongs to ................... sub system.",
+    "question_hi": "3Ø लोको में, SS-17 का संबंध .................. सब सिस्टम से है।",
+    "options": {
+      "A": "Fire detection",
+      "B": "Memotel",
+      "C": "Processor FLG-1",
+      "D": "Processor FLG-2"
+    },
+    "answer": "C",
+    "explanation": "In diagnostic software, Sub-system SS-17 corresponds to Processor FLG-1 (Vehicle Control Logic Unit 1)."
+  },
+  {
+    "id": 6,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "To perform shunting with 3Ø loco, keep ............ switch in ......... position.",
+    "question_hi": "3Ø लोको के साथ शंटिंग करने के लिए, स्विच रखें .........।",
+    "options": {
+      "A": "154 ; 0",
+      "B": "154 ; 1",
+      "C": "160 ; 0",
+      "D": "160 ; 1"
+    },
+    "answer": "D",
+    "explanation": "Configuration switch 160 placed in position 1 engages Shunting Mode, which automatically limits the maximum locomotive speed to 15 km/h."
+  },
+  {
+    "id": 7,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-01 belongs to ................... sub system.",
+    "question_hi": "3Ø लोको में, SS-01 का संबंध .................. सब सिस्टम से है।",
+    "options": {
+      "A": "Traction bogie-1",
+      "B": "Traction bogie-2",
+      "C": "Main power",
+      "D": "Harmonic filter"
+    },
+    "answer": "C",
+    "explanation": "SS-01 designates the Main Power circuit (catenary supply, VCB, primary transformer, and catenary sensors)."
+  },
+  {
+    "id": 8,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "While working with WAP-7 or WAG-9 with light load, if Harmonic filter is isolated, work with normal speed after isolating .................",
+    "question_hi": "लाइट लोड के साथ यदि हार्मोनिक फ़िल्टर को अलग किया जाता है, तो किसके अलगाव के बाद सामान्य गति से काम करें",
+    "options": {
+      "A": "Auxiliary converter-1",
+      "B": "Traction converter-1 & 2",
+      "C": "Auxiliary converter-2",
+      "D": "Traction converter-1"
+    },
+    "answer": "D",
+    "explanation": "Harmonic filter resistance is linked with Bogie-1; isolating Traction Converter-1 eliminates the filter requirement and allows normal speed on Bogie-2."
+  },
+  {
+    "id": 9,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to isolate VCD, keep ...................switch in ............ position.",
+    "question_hi": "3Ø लोको में, VCD को अलग करने के लिए, स्विच को किस स्थिति में रखें:",
+    "options": {
+      "A": "154, 1",
+      "B": "154, 0",
+      "C": "237.1, 1",
+      "D": "237.1, 0"
+    },
+    "answer": "D",
+    "explanation": "Rotary switch 237.1 in SB-2 placed in position 0 electrically isolates the VCD system."
+  },
+  {
+    "id": 10,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Battery charger is getting supply from ...............",
+    "question_hi": "3Ø लोको में, बैटरी चार्जर से आपूर्ति हो रही है ..................",
+    "options": {
+      "A": "Auxiliary converter No. 1",
+      "B": "Auxiliary converter No. 2",
+      "C": "Auxiliary converter No. 3",
+      "D": "Traction converter No. 1"
+    },
+    "answer": "C",
+    "explanation": "Auxiliary Converter No. 3 (BUR-3) provides constant 415V AC 3-phase supply to feed the on-board battery charger (CHBA)."
+  },
+  {
+    "id": 11,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if battery voltage drops below .................. volts, loco will shut down.",
+    "question_hi": "3Ø लोको में, यदि बैटरी वोल्टेज नीचे गिरती है तो लोको बंद हो जाएगा:",
+    "options": {
+      "A": "82",
+      "B": "87",
+      "C": "90",
+      "D": "92"
+    },
+    "answer": "A",
+    "explanation": "Priority-2 alert triggers at <92V; if the control voltage drops below 82V continuously, Central Electronics executes an emergency shutdown."
+  },
+  {
+    "id": 12,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Battery charger output MCB No. is .......... and its location is at...............",
+    "question_hi": "3Ø लोको में, बैटरी चार्जर आउटपुट MCB No. है और इसका स्थान है:",
+    "options": {
+      "A": "110 ; SB1",
+      "B": "110 ; SB2",
+      "C": "100 ; HB1",
+      "D": "100 ; HB2"
+    },
+    "answer": "B",
+    "explanation": "MCB 110 (110V DC battery charger output) is located in control cubicle SB-2."
+  },
+  {
+    "id": 13,
+    "page_no": 1,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase locos, normal position of direct brake handle (SA9) in rear cab is............",
+    "question_hi": "3Ø लोको में, रियर कैब में प्रत्यक्ष ब्रेक हैंडल (SA9) की सामान्य स्थिति है:",
+    "options": {
+      "A": "Apply",
+      "B": "Release",
+      "C": "FS & Locked",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Direct brake controller SA-9 in the trailing/rear non-working cab must always remain pinned in Release position."
+  },
+  {
+    "id": 14,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, VCD is required to be acknowledged from ............. kmph of speed.",
+    "question_hi": "3Ø लोको में, वीसीडी को किस गति से स्वीकार करने की आवश्यकता होती है:",
+    "options": {
+      "A": "5",
+      "B": "1",
+      "C": "1.5",
+      "D": "15"
+    },
+    "answer": "C",
+    "explanation": "VCD monitoring stays in sleep mode at standstill and starts its 60-second vigilance cycle once loco speed exceeds 1.5 km/h."
+  },
+  {
+    "id": 15,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase locos, when parking brakes are released, PB gauge shows .......... Kg/cm².",
+    "question_hi": "जब पार्किंग ब्रेक जारी किए जाते हैं, तो पीबी गेज दिखाता है:",
+    "options": {
+      "A": "5",
+      "B": "0",
+      "C": "6",
+      "D": "3.5"
+    },
+    "answer": "A",
+    "explanation": "Compressed air at 5.0 kg/cm² enters PB cylinders to compress the internal mechanical spring, releasing the brake shoes."
+  },
+  {
+    "id": 16,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "During loco brake testing of WAG-9 or WAP-7, loco should not move up to ......... kN.",
+    "question_hi": "लोको ब्रेक परीक्षण के दौरान, लोको को कितने kN तक नहीं चलना चाहिए:",
+    "options": {
+      "A": "100",
+      "B": "150",
+      "C": "300",
+      "D": "125"
+    },
+    "answer": "B",
+    "explanation": "With full direct brake application (SA-9 at 3.5 kg/cm²), the locomotive must hold standstill against tractive effort up to 150 kN."
+  },
+  {
+    "id": 17,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, HOM is operated with .............. key.",
+    "question_hi": "3Ø लोको में, HOM को किसके साथ संचालित किया जाता है:",
+    "options": {
+      "A": "Solenoid valve No. 30",
+      "B": "IG-38",
+      "C": "16-38",
+      "D": "E-70"
+    },
+    "answer": "B",
+    "explanation": "High-voltage grounding switch HOM is unlocked and interlocked using key IG-38 (Blue key)."
+  },
+  {
+    "id": 18,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, continuous pressing of PSA for more than 60 seconds is called as ............... mode.",
+    "question_hi": "60 सेकंड से अधिक समय तक लगातार PSA दबाने को क्या कहा जाता है:",
+    "options": {
+      "A": "VCD Isolation",
+      "B": "Dead man",
+      "C": "VCD acknowledgement",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Holding an acknowledgment switch (foot pedal PSA / BPVG) depressed continuously beyond 60 seconds is treated as Dead man mode, triggering an emergency penalty brake."
+  },
+  {
+    "id": 19,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Constant speed control (CSC) can be activated above ......... kmph of speed.",
+    "question_hi": "CSC को किस गति से ऊपर सक्रिय किया जा सकता है:",
+    "options": {
+      "A": "5",
+      "B": "1",
+      "C": "1.5",
+      "D": "15"
+    },
+    "answer": "A",
+    "explanation": "CSC automatically disables below 5 km/h and cannot be engaged until train speed crosses 5 km/h."
+  },
+  {
+    "id": 20,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, for 'Driving' mode, move BL key from ......... position to ......... position.",
+    "question_hi": "ड्राइविंग मोड के लिए, BL कुंजी को किस स्थिति से किस स्थिति पर ले जाएं:",
+    "options": {
+      "A": "'D' to 'OFF'",
+      "B": "'OFF' to 'D'",
+      "C": "'OFF' to 'C'",
+      "D": "'C' to 'OFF' then to 'D'"
+    },
+    "answer": "B",
+    "explanation": "Turning the master key from 'OFF' to 'D' powers driving circuits, awakens both cabs, and charges the parking brake cylinders."
+  },
+  {
+    "id": 21,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Auxiliary converter No 2 feeds ................ motors.",
+    "question_hi": "सहायक कनवर्टर नंबर 2 किन मोटरों को फीड करता है:",
+    "options": {
+      "A": "Traction motor blower-1 & 2",
+      "B": "Transformer oil pump-1 & 2",
+      "C": "SR Oil pump-1 & 2",
+      "D": "Any one of the above"
+    },
+    "answer": "D",
+    "explanation": "In standard 3-phase converter arrangements, BUR-2 feeds TMB-1 & 2 and OCB-1 & 2 (Oil Cooler Blowers)."
+  },
+  {
+    "id": 22,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "While energizing 3Ø loco, if UBA meter is showing '0' and corridor lights also not glowing check, MCB No. .......... is tripped.",
+    "question_hi": "यदि UBA मीटर '0' दिखाए और गलियारे की रोशनी भी बंद हो, तो कौन सा MCB ट्रिप है:",
+    "options": {
+      "A": "100",
+      "B": "110",
+      "C": "112.1",
+      "D": "112"
+    },
+    "answer": "C",
+    "explanation": "MCB 112.1 controls battery power supply to Central Electronics (CEL) and general cab control distribution buses."
+  },
+  {
+    "id": 23,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, for charging of BP pressure, .............. coc to be kept open.",
+    "question_hi": "बीपी प्रेशर चार्ज करने के लिए कौन सा कॉक खुला रखा जाना चाहिए:",
+    "options": {
+      "A": "A-9",
+      "B": "70",
+      "C": "74",
+      "D": "47"
+    },
+    "answer": "B",
+    "explanation": "Cut-out cock 70 on the pneumatic brake panel directly controls Brake Pipe (BP) charging."
+  },
+  {
+    "id": 24,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if vigilance penalty brakes are applied BP pressure drops to ......... kg/cm².",
+    "question_hi": "सतर्कता पेनल्टी ब्रेक लगने पर बीपी प्रेशर कितने तक गिरता है:",
+    "options": {
+      "A": "2",
+      "B": "2.5 to 3.0",
+      "C": "2.5 to 3.5",
+      "D": "0"
+    },
+    "answer": "B",
+    "explanation": "A VCD penalty initiates full service braking, venting BP down to 2.5 to 3.0 kg/cm²."
+  },
+  {
+    "id": 25,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "Maximum permissible speed of WAG-9 loco is ............ Kmph.",
+    "question_hi": "WAG-9 लोको की अधिकतम अनुमेय गति (MPS) कितनी है:",
+    "options": {
+      "A": "100",
+      "B": "130",
+      "C": "140",
+      "D": "160"
+    },
+    "answer": "A",
+    "explanation": "Standard freight workhorse WAG-9 is geared for a maximum operational speed of 100 km/h."
+  },
+  {
+    "id": 26,
+    "page_no": 2,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, on moving BL key from 'D' to 'OFF' position, ............. Brakes will apply automatically.",
+    "question_hi": "BL कुंजी को 'D' से 'OFF' पर ले जाने पर कौन से ब्रेक स्वतः लागू होंगे:",
+    "options": {
+      "A": "Direct brakes",
+      "B": "Auto brakes",
+      "C": "Parking brakes",
+      "D": "All brakes"
+    },
+    "answer": "C",
+    "explanation": "Moving the key to 'OFF' exhausts the solenoid magnet valve line, setting the spring-loaded Parking brakes."
+  },
+  {
+    "id": 27,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, parking brakes are applied and released through ............ switch in Panel 'A'.",
+    "question_hi": "पार्किंग ब्रेक किसके माध्यम से पैनल 'A' से लगाए और जारी किए जाते हैं:",
+    "options": {
+      "A": "Solenoid valve",
+      "B": "BPCS",
+      "C": "BPPB",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Illuminated spring push-button BPPB (Push Button Parking Brake) applies and releases parking brakes from the cab desk."
+  },
+  {
+    "id": 28,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-14 belongs to ............... sub system.",
+    "question_hi": "SS-14 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Cab 1",
+      "B": "Cab 2",
+      "C": "Fire detection",
+      "D": "Auxiliaries in HB 2"
+    },
+    "answer": "B",
+    "explanation": "In locomotive diagnostics, SS-13 designates Cab-1 and SS-14 designates Cab-2."
+  },
+  {
+    "id": 29,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if ZBAN is switched ON in working cab, ................... happens.",
+    "question_hi": "यदि कार्यरत कैब में ZBAN चालू किया जाए, तो क्या होगा:",
+    "options": {
+      "A": "BP pressure drops to '0'",
+      "B": "FP pressure drops to '0'",
+      "C": "BC pressure raises to 3.5 kg/cm²",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "Turning ON ZBAN vents BP to 0 kg/cm² from the banker cab, leaving train brake control exclusively to the leading train engine."
+  },
+  {
+    "id": 30,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "Hotel load facility is available in ............... loco(s).",
+    "question_hi": "होटल लोड की सुविधा किन लोकोमोटिव्स में उपलब्ध है:",
+    "options": {
+      "A": "WAP-5",
+      "B": "WAP-7",
+      "C": "All WAP-5 and modified WAP-7",
+      "D": "All three phase locos"
+    },
+    "answer": "C",
+    "explanation": "Hotel load converters (supplying 750V 3-phase for coach AC/pantry) are standard on WAP-5 and designated modified HOG WAP-7 locomotives."
+  },
+  {
+    "id": 31,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø MU locos, .................... panto of leading loco and ................... panto of trailing loco will raise.",
+    "question_hi": "3Ø MU में, लीडिंग लोको का कौन सा और ट्रेलिंग लोको का कौन सा पैंटो उठेगा:",
+    "options": {
+      "A": "Leading; Leading",
+      "B": "Leading; Trailing",
+      "C": "Trailing; Leading",
+      "D": "Trailing; Trailing"
+    },
+    "answer": "C",
+    "explanation": "Raising the Trailing panto of leading loco and Leading panto of trailing loco maximizes mechanical distance between pans to prevent OHE wave resonance oscillations."
+  },
+  {
+    "id": 32,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "While clearing 3Ø loco (provided with Knorr brake) as dead, mode switch position in both cabs is ...........",
+    "question_hi": "डेड लोको को ले जाते समय दोनों कैब में मोड स्विच की स्थिति क्या होगी:",
+    "options": {
+      "A": "HLPR",
+      "B": "Lead",
+      "C": "Test",
+      "D": "Trail"
+    },
+    "answer": "D",
+    "explanation": "The CCB mode rotary switch must be turned to Trail in both cabs to make brake valves passive and responsive to incoming train BP signals."
+  },
+  {
+    "id": 33,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, pressing of BPVG continuously for more than 60 seconds is called as .............. mode.",
+    "question_hi": "BPVG को 60 सेकंड से अधिक दबाने को क्या कहा जाता है:",
+    "options": {
+      "A": "VCD Isolation",
+      "B": "Dead man",
+      "C": "VCD acknowledgement",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Holding vigilance push button BPVG continuously jammed for >60 s triggers the Dead man mode safety penalty."
+  },
+  {
+    "id": 34,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "Total oil points in WAG 9 or WAP 7 locos are ...........",
+    "question_hi": "WAG 9 या WAP 7 लोको में कुल तेल जांच बिंदु कितने हैं:",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "13",
+      "D": "11"
+    },
+    "answer": "C",
+    "explanation": "Includes 13 oil sight glasses: Main Transformer (1), Traction Converters (2), Main Compressors (2), Axle Gear Cases (6), and Center Pivot Gear points (2)."
+  },
+  {
+    "id": 35,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "To apply parking brakes in 3Ø dead loco, press ............. side plunger of solenoid valve.",
+    "question_hi": "3Ø मृत लोको में पार्किंग ब्रेक लगाने के लिए सोलेनॉइड वाल्व का कौन सा प्लंजर दबाएं:",
+    "options": {
+      "A": "Left",
+      "B": "Right",
+      "C": "Any plunger",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "On solenoid valve 30, depressing the Left side plunger manual pin releases air pressure, applying parking brakes."
+  },
+  {
+    "id": 36,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "Three phase loco is having ............... no. of three phase auxiliary motors.",
+    "question_hi": "3-चरण लोको में 3-फेज ऑक्जीलरी मोटरों की कुल संख्या है:",
+    "options": {
+      "A": "16",
+      "B": "22",
+      "C": "12",
+      "D": "13"
+    },
+    "answer": "C",
+    "explanation": "Standard configuration has 12 three-phase AC induction motors (2 TMB, 2 OCB, 2 CP, 2 TFP oil pumps, 2 SR oil pumps, and 2 scavenge blowers)."
+  },
+  {
+    "id": 37,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, UBA meter needle deviates when BL key is in ............. mode(s) of BL key.",
+    "question_hi": "UBA मीटर की सुई कब विचलित होती है:",
+    "options": {
+      "A": "Driving",
+      "B": "Cooling",
+      "C": "Driving or Cooling",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Battery circuit contactor closes and provides 110V DC bus potential to voltmeter UBA in either Driving (D) or Cooling (C) mode."
+  },
+  {
+    "id": 38,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "If speed of the train is increased more than ........... than loco MPS, emergency brake will apply in 3Ø loco.",
+    "question_hi": "यदि ट्रेन की गति लोको MPS से कितने से अधिक बढ़ जाए तो आपातकालीन ब्रेक लगेगा:",
+    "options": {
+      "A": "0.5%",
+      "B": "5%",
+      "C": "10%",
+      "D": "50%"
+    },
+    "answer": "B",
+    "explanation": "Overspeed protection generates an audio-visual beep at +0.5%; if speed reaches 5% above MPS, VCB opens and automatic emergency braking applies."
+  },
+  {
+    "id": 39,
+    "page_no": 3,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Constant speed control (CSC) will be de-activated automatically if BP pressure drops more than ......... Kg/cm².",
+    "question_hi": "बीपी दबाव में कितने से अधिक गिरावट पर CSC स्वतः डी-एक्टिवेट हो जाएगा:",
+    "options": {
+      "A": "1",
+      "B": "1.5",
+      "C": "0.25",
+      "D": "0.8"
+    },
+    "answer": "C",
+    "explanation": "A pressure reduction greater than 0.25 kg/cm² indicates a service application and drops CSC immediately."
+  },
+  {
+    "id": 40,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to isolate truck No.2 (traction converter-2), keep .......... switch in ............ position.",
+    "question_hi": "ट्रक नंबर 2 (ट्रैक्शन कनवर्टर-2) को अलग करने के लिए स्विच को किस स्थिति में रखें:",
+    "options": {
+      "A": "154, I",
+      "B": "154, II",
+      "C": "154, Norm",
+      "D": "154, I & II"
+    },
+    "answer": "B",
+    "explanation": "Switch 154 placed in position II isolates Bogie-2 traction power."
+  },
+  {
+    "id": 41,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-10 belongs to ................. sub system.",
+    "question_hi": "SS-10 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Battery",
+      "B": "Brake system",
+      "C": "Auxiliaries HB1",
+      "D": "Auxiliary converter No. 3"
+    },
+    "answer": "B",
+    "explanation": "Sub-system SS-10 designates the computerized Brake System."
+  },
+  {
+    "id": 42,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, location of TM Blower-1 is ....................",
+    "question_hi": "टीएम ब्लोअर -1 का स्थान कहाँ है:",
+    "options": {
+      "A": "Machine room No.1 (near cab-2)",
+      "B": "Machine room No.2 (near Cab-1)",
+      "C": "Under machine room No.1",
+      "D": "Under machine room No.2"
+    },
+    "answer": "B",
+    "explanation": "TM Blower-1 is installed in Machine Room No. 2 near Cab-1."
+  },
+  {
+    "id": 43,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In ................ gradient area and terminal goods yards Constant speed control (CSC) of 3 phase loco should not be used.",
+    "question_hi": "किस ढाल क्षेत्र में CSC का उपयोग नहीं किया जाना चाहिए:",
+    "options": {
+      "A": "Up",
+      "B": "Down",
+      "C": "Undulating",
+      "D": "Steep down"
+    },
+    "answer": "D",
+    "explanation": "In Steep down gradients, regenerative brake cycling can cause runaways; manual graduated control is mandatory."
+  },
+  {
+    "id": 44,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, acknowledge the fault message by pressing ................. button.",
+    "question_hi": "फॉल्ट संदेश को स्वीकार करने के लिए कौन सा बटन दबाएं:",
+    "options": {
+      "A": "'Ack' key in panel-C",
+      "B": "BPFA",
+      "C": "BPCS",
+      "D": "BPVR"
+    },
+    "answer": "B",
+    "explanation": "Illuminated push button BPFA on Panel-A acknowledges screen faults and stops fault alarms."
+  },
+  {
+    "id": 45,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "While working 3Ø loco as banker, close ............ coc in pneumatic panel.",
+    "question_hi": "बैंकर के रूप में काम करते समय कौन सा कॉक बंद करें:",
+    "options": {
+      "A": "70",
+      "B": "74",
+      "C": "136",
+      "D": "All the above"
+    },
+    "answer": "A",
+    "explanation": "Cock 70 isolates BP charging from the banking engine."
+  },
+  {
+    "id": 46,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to reset the Fire detection unit (FDU) press the ................. button.",
+    "question_hi": "फायर डिटेक्शन यूनिट (FDU) को रीसेट करने के लिए कौन सा बटन दबाएं:",
+    "options": {
+      "A": "BPFA",
+      "B": "Press Reset button on FDU",
+      "C": "ESPB",
+      "D": "BPVR"
+    },
+    "answer": "B",
+    "explanation": "After confirming no fire in the machine room, press the dedicated manual Reset button directly on the FDU unit in SB-2."
+  },
+  {
+    "id": 47,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, ............... auxiliary motors works only in cooling mode.",
+    "question_hi": "कौन सी सहायक मोटरें केवल कूलिंग मोड में काम करती हैं:",
+    "options": {
+      "A": "All three Ø and single Ø motors",
+      "B": "All single Ø motors and MCP 1&2",
+      "C": "Only single Ø motors & MCPA",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "In cooling mode, single-phase machine room blowers and Main Compressors (MCP 1&2) operate to ventilate and charge reservoirs while traction systems sleep."
+  },
+  {
+    "id": 48,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In three Ø loco, if 'Catenary voltage out of limit' appears on screen, change ............... fuse after lowering panto.",
+    "question_hi": "कैटेनरी वोल्टेज आउट ऑफ लिमिट दिखने पर कौन सा फ्यूज बदलें:",
+    "options": {
+      "A": "FL",
+      "B": "CCBA",
+      "C": "No need to Change",
+      "D": "Potential Transformer"
+    },
+    "answer": "D",
+    "explanation": "Replace the primary roof/panel Potential Transformer (PT) fuse."
+  },
+  {
+    "id": 49,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In three Ø loco, SS-09 belongs to ................. sub system.",
+    "question_hi": "SS-09 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Battery system",
+      "B": "Brake system",
+      "C": "Auxiliaries HB-1",
+      "D": "Auxiliary converter No.3"
+    },
+    "answer": "A",
+    "explanation": "SS-09 designates the on-board Battery and low voltage DC auxiliary network."
+  },
+  {
+    "id": 50,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase knorr brake loco, rear cab mode switch position is ..................",
+    "question_hi": "नॉर ब्रेक लोको में रियर कैब मोड स्विच की स्थिति क्या होगी:",
+    "options": {
+      "A": "HLPR",
+      "B": "Lead",
+      "C": "Trail",
+      "D": "Test"
+    },
+    "answer": "C",
+    "explanation": "Rear/non-driving cab mode switch must always be in Trail."
+  },
+  {
+    "id": 51,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "To reset VCD in WAP-5 loco, wait for ............. seconds.",
+    "question_hi": "WAP-5 लोको में VCD को रीसेट करने के लिए कितने सेकंड का इंतजार करें:",
+    "options": {
+      "A": "0",
+      "B": "160",
+      "C": "240",
+      "D": "120"
+    },
+    "answer": "D",
+    "explanation": "Conventional E-70 fitted WAP-5 software maintains a 120-second penalty reset interlock."
+  },
+  {
+    "id": 52,
+    "page_no": 4,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase loco cab changing is to be done with in ............. minutes otherwise CE will switch OFF.",
+    "question_hi": "कैब बदलने का कार्य कितने मिनट में पूरा किया जाना चाहिए:",
+    "options": {
+      "A": "10",
+      "B": "0",
+      "C": "15",
+      "D": "20"
+    },
+    "answer": "A",
+    "explanation": "In self-hold mode, Central Electronics remains awake for 10 minutes before powering down."
+  },
+  {
+    "id": 53,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase locos, Harmonic filter resistances are cooled by .................",
+    "question_hi": "हार्मोनिक फिल्टर प्रतिरोधों को किसके द्वारा ठंडा किया जाता है:",
+    "options": {
+      "A": "Atmospheric air",
+      "B": "Blower",
+      "C": "Pneumatic pressure",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "Located on the locomotive roof, they are naturally cooled by ambient Atmospheric air."
+  },
+  {
+    "id": 54,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3 phase locos, in cooling mode, for panto and DJ ................. motor creates pressure.",
+    "question_hi": "कूलिंग मोड में पेंटो और डीजे के लिए कौन सी मोटर दबाव बनाती है:",
+    "options": {
+      "A": "MCPs",
+      "B": "MCPA",
+      "C": "Both A and B",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "The baby auxiliary compressor (MCPA) runs on battery DC to build pneumatic control pressure."
+  },
+  {
+    "id": 55,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In three Ø loco potential transformer is connected to ................. roof bar.",
+    "question_hi": "पोटेंशियल ट्रांसफार्मर किस रूफ बार से जुड़ा होता है:",
+    "options": {
+      "A": "Middle",
+      "B": "Panto-1",
+      "C": "Panto-2",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "The high voltage primary PT is tapped off the Middle central high-voltage roof busbar."
+  },
+  {
+    "id": 56,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "The position of mode switch in leading cab of 3Ø loco provided with Knorr brake is ..................",
+    "question_hi": "अग्रणी कैब में मोड स्विच की स्थिति क्या होगी:",
+    "options": {
+      "A": "HLPR",
+      "B": "Lead",
+      "C": "Trail",
+      "D": "Test"
+    },
+    "answer": "B",
+    "explanation": "Active driving cab must be set to Lead."
+  },
+  {
+    "id": 57,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, normal position of 152 switch is ..................",
+    "question_hi": "स्विच 152 की सामान्य स्थिति क्या होती है:",
+    "options": {
+      "A": "'0'",
+      "B": "'1'",
+      "C": "'NORM'",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Position '1' is the standard normal running position."
+  },
+  {
+    "id": 58,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, positions of 154 Switch are ..................",
+    "question_hi": "स्विच 154 की स्थितियां क्या हैं:",
+    "options": {
+      "A": "I, II",
+      "B": "NORM, I, II and I & II",
+      "C": "NORM",
+      "D": "0 & 1"
+    },
+    "answer": "B",
+    "explanation": "Has four operational selections: NORM (both active), I (Bogie-1 isolated), II (Bogie-2 isolated), and I & II (both isolated)."
+  },
+  {
+    "id": 59,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-04 belongs to ................. sub system.",
+    "question_hi": "SS-04 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Traction bogie-1",
+      "B": "Traction bogie-2",
+      "C": "Main power",
+      "D": "Harmonic filter"
+    },
+    "answer": "D",
+    "explanation": "SS-04 corresponds to the Harmonic Filter circuit."
+  },
+  {
+    "id": 60,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-08 belongs to ................. sub system.",
+    "question_hi": "SS-08 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Auxiliary converter No.1",
+      "B": "Auxiliary converter No.2",
+      "C": "Auxiliary converter No.3",
+      "D": "Battery"
+    },
+    "answer": "C",
+    "explanation": "SS-08 designates Auxiliary Converter No. 3 (BUR-3)."
+  },
+  {
+    "id": 61,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco provided with Knorr brake, Auto brake valve (A9) handle can be locked or unlocked in ..... position.",
+    "question_hi": "A9 हैंडल को किस स्थिति में लॉक या अनलॉक किया जा सकता है:",
+    "options": {
+      "A": "Emergency",
+      "B": "Neutral",
+      "C": "Full service",
+      "D": "Minimum reduction"
+    },
+    "answer": "B",
+    "explanation": "The locking pin on the A-9 handle engages only when placed in Neutral position."
+  },
+  {
+    "id": 62,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "Three phase loco is having ................ number of roof bars.",
+    "question_hi": "3-चरण लोको में कुल कितनी रूफ बार होती हैं:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "3+3"
+    },
+    "answer": "B",
+    "explanation": "Standard high-voltage roof busbar has 3 interconnected rigid segments."
+  },
+  {
+    "id": 63,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "Three phase loco having .............. number of additional cocks (total coc on both sides).",
+    "question_hi": "दोनों ओर कुल अतिरिक्त कॉकों की संख्या कितनी होती है:",
+    "options": {
+      "A": "4",
+      "B": "4+4",
+      "C": "16",
+      "D": "2"
+    },
+    "answer": "B",
+    "explanation": "4+4 (4 on Cab-1 end buffer beam and 4 on Cab-2 end: BP, FP, BC equalizing, and MR equalizing cocks)."
+  },
+  {
+    "id": 64,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-05 belongs to ................. sub system.",
+    "question_hi": "SS-05 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Harmonic filter",
+      "B": "Hotel load",
+      "C": "Brake system",
+      "D": "Fire detection"
+    },
+    "answer": "B",
+    "explanation": "Sub-system SS-05 designates the Hotel Load Converter."
+  },
+  {
+    "id": 65,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "WAG-9 loco is provided with ......... No. of direct brake cylinders and ......... No. of parking brake cylinders.",
+    "question_hi": "WAG-9 लोको में प्रत्यक्ष ब्रेक और पार्किंग ब्रेक सिलेंडरों की संख्या है:",
+    "options": {
+      "A": "12 & 4",
+      "B": "12 & 12",
+      "C": "4 & 12",
+      "D": "12 & 6"
+    },
+    "answer": "A",
+    "explanation": "12 direct brake cylinders (one per wheel) and 4 spring parking brake cylinders (on wheels 2, 6, 7, and 11)."
+  },
+  {
+    "id": 66,
+    "page_no": 5,
+    "topic": "3 Phase Loco",
+    "question_en": "3 phase loco is fitted with ....................... type of traction motors.",
+    "question_hi": "3-चरण लोको में किस प्रकार के ट्रैक्शन मोटर लगाए जाते हैं:",
+    "options": {
+      "A": "3Ø AC Asynchronous squirrel cage induction motor",
+      "B": "TAO 659",
+      "C": "Hitachi",
+      "D": "Hitachi or TAO 659"
+    },
+    "answer": "A",
+    "explanation": "Powered by robust 3-phase asynchronous squirrel-cage induction motors (type 6FRA 6068 / 6FXA 7059)."
+  },
+  {
+    "id": 67,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, position of control electronics (CE) during cab changing is ..................",
+    "question_hi": "कैब बदलने के दौरान कंट्रोल इलेक्ट्रॉनिक्स की स्थिति क्या होती है:",
+    "options": {
+      "A": "OFF",
+      "B": "ON",
+      "C": "Self hold mode",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Moving BL key to OFF engages Self hold mode, maintaining processor memory while the crew shifts cabs."
+  },
+  {
+    "id": 68,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, location of BPFL switch is ....................",
+    "question_hi": "BPFL स्विच का स्थान कहाँ है:",
+    "options": {
+      "A": "FLCU",
+      "B": "In both cabs Panel A",
+      "C": "In both cabs Panel B",
+      "D": "In both cabs Panel C"
+    },
+    "answer": "D",
+    "explanation": "Emergency flasher light toggle push button BPFL is located on Panel-C."
+  },
+  {
+    "id": 69,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, during self hold mode, CE will remain in ON for ............ minutes.",
+    "question_hi": "सेल्फ होल्ड मोड में CE कितने मिनट तक ऑन रहेगा:",
+    "options": {
+      "A": "15",
+      "B": "10",
+      "C": "20",
+      "D": "Will not switch OFF"
+    },
+    "answer": "B",
+    "explanation": "CE holds power internally for 10 minutes before executing automatic battery cutoff."
+  },
+  {
+    "id": 70,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "To move 3Ø loco as live or dead ensure ................... brakes are released.",
+    "question_hi": "लोको को ले जाने के लिए किन ब्रेकों का रिलीज होना सुनिश्चित करें:",
+    "options": {
+      "A": "Parking brakes, proportional",
+      "B": "Direct brakes, proportional",
+      "C": "Parking, Direct brakes",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "Both Parking brakes and Proportional / direct brakes must be fully released (gauges at 0 kg/cm² for BC and 5 kg/cm² for PB)."
+  },
+  {
+    "id": 71,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if throttle (ATDC) is failed, keep ................ switch in ............ position.",
+    "question_hi": "यदि थ्रॉटल (ATDC) विफल हो जाए तो स्विच को किस स्थिति में रखें:",
+    "options": {
+      "A": "154, 0",
+      "B": "152, 1",
+      "C": "152, 0",
+      "D": "160, 1"
+    },
+    "answer": "B",
+    "explanation": "Switch 152 placed in position 1 / Failure Mode permits clearing section using alternative step controls."
+  },
+  {
+    "id": 72,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, when parking brakes are applied, parking brake gauge shows .................",
+    "question_hi": "पार्किंग ब्रेक लगाने पर पार्किंग ब्रेक गेज क्या दिखाता है:",
+    "options": {
+      "A": "0 Kg/cm²",
+      "B": "4 Kg/cm²",
+      "C": "3.5 Kg/cm²",
+      "D": "6 Kg/cm²"
+    },
+    "answer": "A",
+    "explanation": "Venting air pressure to 0 kg/cm² allows springs to exert mechanical braking force on wheels."
+  },
+  {
+    "id": 73,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-15 belongs to ................. sub system.",
+    "question_hi": "SS-15 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Cab-2",
+      "B": "Fire detection",
+      "C": "Memotel (Speedometer)",
+      "D": "Processor FLG-1"
+    },
+    "answer": "C",
+    "explanation": "SS-15 designates the digital Memotel / Speedometer recording sub-system."
+  },
+  {
+    "id": 74,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to isolate panto No.1 keep panto selector switch in ............... position.",
+    "question_hi": "पेंटो नंबर 1 को अलग करने के लिए पेंटो सिलेक्टर स्विच को किसमें रखें:",
+    "options": {
+      "A": "Auto",
+      "B": "I",
+      "C": "II",
+      "D": "I & II"
+    },
+    "answer": "C",
+    "explanation": "Setting selector switch to II raises Pantograph-2 exclusively, isolating Pantograph-1."
+  },
+  {
+    "id": 75,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "Location of Emergency stop push button switch in 3Ø loco is ..................",
+    "question_hi": "इमरजेंसी स्टॉप पुश बटन स्विच का स्थान कहाँ है:",
+    "options": {
+      "A": "In both cabs Panel A",
+      "B": "In both cabs Panel B",
+      "C": "In both cabs Panel C",
+      "D": "In both cabs Panel D"
+    },
+    "answer": "A",
+    "explanation": "Prominently provided on Panel-A of both cabs."
+  },
+  {
+    "id": 76,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "WAG-9 or WAP-7 locos are having ............ number of dampers.",
+    "question_hi": "WAG-9 या WAP-7 लोको में कुल डैम्पर्स की संख्या कितनी है:",
+    "options": {
+      "A": "16",
+      "B": "20",
+      "C": "40",
+      "D": "10"
+    },
+    "answer": "B",
+    "explanation": "Total 20 hydraulic dampers: 8 primary vertical, 4 secondary vertical, 4 secondary lateral, and 4 yaw dampers."
+  },
+  {
+    "id": 77,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "Location of MCP-2 in three Ø loco is ...................",
+    "question_hi": "MCP-2 का स्थान कहाँ है:",
+    "options": {
+      "A": "Loco left side below Machine room No.1",
+      "B": "Loco right side below Machine room No.2",
+      "C": "Machine room No.1",
+      "D": "Machine room No.2"
+    },
+    "answer": "B",
+    "explanation": "Suspended in the underframe on the Loco right side below Machine Room No. 2."
+  },
+  {
+    "id": 78,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, glowing of BPFA and flickering of LSFI indicates ................. fault.",
+    "question_hi": "BPFA जलने और LSFI के झिलमिलाने से किस फॉल्ट का संकेत मिलता है:",
+    "options": {
+      "A": "Isolation of sub system",
+      "B": "Priority-1",
+      "C": "Priority-2",
+      "D": "Both Priority-1 & 2 faults at a time"
+    },
+    "answer": "C",
+    "explanation": "Indicates a Priority-2 fault requiring acknowledgment."
+  },
+  {
+    "id": 79,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "Expand 'F0201P1' in 3Ø loco ....................",
+    "question_hi": "3Ø लोको में 'F0201P1' का विस्तार करें:",
+    "options": {
+      "A": "Fault in Traction Bogie No.1",
+      "B": "Priority-1 fault",
+      "C": "S.No.1 in Priority-1",
+      "D": "All the above"
+    },
+    "answer": "D",
+    "explanation": "Decodes as Fault (F), Subsystem 02 (Traction Bogie-1), Fault code 01, and Priority-1 (P1)."
+  },
+  {
+    "id": 80,
+    "page_no": 6,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø locos, VCD is required to acknowledge once in every ............ seconds.",
+    "question_hi": "VCD को कितने सेकंड में एक बार स्वीकार करना आवश्यक है:",
+    "options": {
+      "A": "8",
+      "B": "60",
+      "C": "58",
+      "D": "160 in WAG-9 or WAP-7 & 120 in WAP-5"
+    },
+    "answer": "B",
+    "explanation": "The vigilance monitoring cycle requires driver acknowledgment at least once every 60 seconds."
+  },
+  {
+    "id": 81,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, on run glowing of BPFA alone indicates ................. fault.",
+    "question_hi": "चलते समय केवल BPFA के जलने से किस फॉल्ट का संकेत मिलता है:",
+    "options": {
+      "A": "Priority-1",
+      "B": "One of the sub system is isolated",
+      "C": "Priority-2",
+      "D": "Priority-1 fault or Priority-2 fault"
+    },
+    "answer": "C",
+    "explanation": "A steady illuminated BPFA without flickering indicates an acknowledged Priority-2 alert."
+  },
+  {
+    "id": 82,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "Location of Harmonic filter resistances in 3Ø loco is ..................",
+    "question_hi": "हार्मोनिक फ़िल्टर प्रतिरोधों का स्थान कहाँ है:",
+    "options": {
+      "A": "Loco roof",
+      "B": "Inside FB",
+      "C": "Machine room No-2",
+      "D": "By the side of pneumatic panel"
+    },
+    "answer": "A",
+    "explanation": "Mounted externally on the Loco roof."
+  },
+  {
+    "id": 83,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to bring isolated sub system into service, procedure is ...............",
+    "question_hi": "आइसोलेटेड सब-सिस्टम को पुनः सेवा में लाने की क्या प्रक्रिया है:",
+    "options": {
+      "A": "Major fault in loco",
+      "B": "Reset concerned MCB",
+      "C": "Switch OFF and switch ON CEL",
+      "D": "Operate concerned rotating switch"
+    },
+    "answer": "C",
+    "explanation": "Must Switch OFF and switch ON Central Electronics (recycle CEL) so software scans and reconfigures hardware."
+  },
+  {
+    "id": 84,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Status code '00' means ...................",
+    "question_hi": "स्थिति कोड '00' का क्या अर्थ है:",
+    "options": {
+      "A": "Major fault in loco",
+      "B": "No sub system isolated",
+      "C": "Minor fault in loco",
+      "D": "No fault and No sub system isolated"
+    },
+    "answer": "D",
+    "explanation": "Status '00' confirms a completely healthy vehicle: No fault and No subsystem isolated."
+  },
+  {
+    "id": 85,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Auxiliary converter No 3 feeds ................. motors.",
+    "question_hi": "सहायक कनवर्टर नंबर 3 किन मोटरों को फीड करता है:",
+    "options": {
+      "A": "Three Ø scavenging blower-1&2",
+      "B": "MCP-1 & 2",
+      "C": "Battery charger",
+      "D": "All the above"
+    },
+    "answer": "D",
+    "explanation": "In standard running scheme, BUR-3 feeds all these units."
+  },
+  {
+    "id": 86,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, in case of emergency, ALP can stop the train by operating ...................",
+    "question_hi": "आपातकाल के मामले में एएलपी ट्रेन को किसके द्वारा रोक सकता है:",
+    "options": {
+      "A": "Emergency stop switch",
+      "B": "Emergency brake valve",
+      "C": "BPVG",
+      "D": "Emergency stop switch or Emergency brake valve"
+    },
+    "answer": "D",
+    "explanation": "Can activate either the electrical Emergency stop switch (BPEMS) or the manual pneumatic Emergency brake flap valve."
+  },
+  {
+    "id": 87,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Constant speed control (CSC) will be de-activated automatically if throttle is disturbed above .............% in TE or BE side.",
+    "question_hi": "थ्रॉटल को कितने % से अधिक हिलाने पर CSC स्वतः रद्द हो जाता है:",
+    "options": {
+      "A": "0.5%",
+      "B": "5%",
+      "C": "33%",
+      "D": "No such limit, on moving throttle"
+    },
+    "answer": "D",
+    "explanation": "There is no percentage deadband; any positive physical movement of the master throttle automatically cancels CSC."
+  },
+  {
+    "id": 88,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "WAG-9 loco is having ........................ type of bogie.",
+    "question_hi": "WAG-9 लोको में किस प्रकार की बोगी होती है:",
+    "options": {
+      "A": "Bo-Bo flexi coil",
+      "B": "Co-Co Tri mount",
+      "C": "Co-Co flexi coil",
+      "D": "Co-Co tetra mount high adhesion"
+    },
+    "answer": "D",
+    "explanation": "High tractive effort Co-Co tetra mount high adhesion fabricated bogie."
+  },
+  {
+    "id": 89,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "Procedure for quick charging of BP pressure in 3Ø loco is ..................",
+    "question_hi": "BP प्रेशर की त्वरित चार्जिंग की प्रक्रिया है:",
+    "options": {
+      "A": "Press BPVG",
+      "B": "Keep A9 in release position",
+      "C": "Press PVEF",
+      "D": "Press 'Emergency stop' switch"
+    },
+    "answer": "B",
+    "explanation": "Holding A-9 briefly in Release position delivers high pneumatic volume and overcharges BP to 5.4 kg/cm²."
+  },
+  {
+    "id": 90,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Machine room blowers & their scavenging blowers work in ................. Mode(s).",
+    "question_hi": "मशीन रूम ब्लोअर और स्केवेंजिंग ब्लोअर किस मोड में काम करते हैं:",
+    "options": {
+      "A": "Driving mode only",
+      "B": "Cooling mode only",
+      "C": "Off",
+      "D": "Driving mode & Cooling mode"
+    },
+    "answer": "D",
+    "explanation": "Operates across both Driving mode and Cooling mode to purge contaminants and cool machinery."
+  },
+  {
+    "id": 91,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In WAG-9 or WAP-7, location of air dryer is ....................",
+    "question_hi": "WAG-9 या WAP-7 में एयर ड्रायर का स्थान कहाँ है:",
+    "options": {
+      "A": "Behind cattle guard-1 in left side",
+      "B": "Between two trucks",
+      "C": "Behind cattle guard-1 loco pilot side",
+      "D": "Behind cattle guard-1 in ALP side"
+    },
+    "answer": "D",
+    "explanation": "Installed under the chassis behind cattle guard-1 on the Assistant Loco Pilot (ALP) side."
+  },
+  {
+    "id": 92,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-06 belongs to ................. sub system.",
+    "question_hi": "SS-06 किस सब सिस्टम के अंतर्गत आता है:",
+    "options": {
+      "A": "Auxiliary converter No. 1",
+      "B": "Auxiliary converter No. 2",
+      "C": "Auxiliary converter No. 3",
+      "D": "Traction converter No. 1"
+    },
+    "answer": "A",
+    "explanation": "Sub-system SS-06 corresponds to Auxiliary Converter No. 1 (BUR-1)."
+  },
+  {
+    "id": 93,
+    "page_no": 7,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Continuous glowing of LSFI indicates ...................",
+    "question_hi": "LSFI की निरंतर चमक क्या इंगित करती है:",
+    "options": {
+      "A": "Priority-1 fault",
+      "B": "At least one sub system is isolated",
+      "C": "Priority-2 fault",
+      "D": "Priority-1 fault or Priority-2 fault"
+    },
+    "answer": "B",
+    "explanation": "A steady non-flashing yellow pilot lamp LSFI signals that at least one sub-system has been isolated."
+  },
+  {
+    "id": 94,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, location of MCP-1 is ....................",
+    "question_hi": "MCP-1 का स्थान कहाँ है:",
+    "options": {
+      "A": "In machine room No.1",
+      "B": "In machine room No.2",
+      "C": "Below machine room No.2",
+      "D": "Below machine room No.1"
+    },
+    "answer": "D",
+    "explanation": "Main Compressor 1 is mounted on the underframe below Machine Room No. 1."
+  },
+  {
+    "id": 95,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, 3Ø scavenging blower collects dust from air filters of ................... & ...................",
+    "question_hi": "स्केवेंजिंग ब्लोअर किनके एयर फिल्टर से धूल एकत्र करता है:",
+    "options": {
+      "A": "Oil cooling blowers-1&2",
+      "B": "Bogie blowers-1&2",
+      "C": "Machine room blowers-1&2",
+      "D": "Oil cooling blower & Bogie blower"
+    },
+    "answer": "D",
+    "explanation": "Draws particulate buildup out of the inertial cyclonic filters of both the Oil Cooling Blower and Bogie Traction Motor Blower."
+  },
+  {
+    "id": 96,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to switch OFF control electronics procedure of operating BL key",
+    "question_hi": "CE बंद करने के लिए BL कुंजी के संचालन की प्रक्रिया क्या है:",
+    "options": {
+      "A": "'D' to 'OFF' wait for 2 to 4 seconds",
+      "B": "'OFF' to 'C' wait for 2 to 4 seconds",
+      "C": "'C' to 'OFF'",
+      "D": "All the above"
+    },
+    "answer": "A",
+    "explanation": "Rotate from 'D' to 'OFF' and wait 2 to 4 seconds for the internal processors to cleanly save diagnostic logs."
+  },
+  {
+    "id": 97,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, for cooling mode procedure of operating BL key is ...................................",
+    "question_hi": "कूलिंग मोड के लिए BL कुंजी संचालन की प्रक्रिया क्या है:",
+    "options": {
+      "A": "'D' to 'OFF' wait for 2 to 4 seconds",
+      "B": "'OFF' to 'C' wait for 2 to 4 seconds",
+      "C": "'C' to 'OFF' then to 'C' again",
+      "D": "All the above"
+    },
+    "answer": "B",
+    "explanation": "Turn from 'OFF' to 'C' and hold 2 to 4 seconds."
+  },
+  {
+    "id": 98,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "Three phase loco is having ............... number of auxiliary converter(s).",
+    "question_hi": "3Ø लोको में ऑक्जीलरी कनवर्टर की संख्या कितनी है:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "C",
+    "explanation": "Standard 3-phase locos have 3 auxiliary converters (BUR-1, BUR-2, and BUR-3)."
+  },
+  {
+    "id": 99,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, when harmonic filter is isolated, speed of the train is restricted to .................",
+    "question_hi": "हार्मोनिक फ़िल्टर अलग होने पर ट्रेन की गति कितने तक सीमित होती है:",
+    "options": {
+      "A": "60 Kmph",
+      "B": "40 Kmph",
+      "C": "25 Kmph",
+      "D": "No such restriction"
+    },
+    "answer": "B",
+    "explanation": "Speed is restricted to 40 km/h to prevent primary voltage resonance on the overhead contact line."
+  },
+  {
+    "id": 100,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "To raise the pantograph in 3Ø loco, ensure ................. node information (in driving mode) on screen.",
+    "question_hi": "पैंटोग्राफ उठाने के लिए स्क्रीन पर कौन सी नोड जानकारी सुनिश्चित करें:",
+    "options": {
+      "A": "FLG-504",
+      "B": "FLG-550",
+      "C": "FLG-570",
+      "D": "FLG-590"
+    },
+    "answer": "A",
+    "explanation": "Diagnostic screen must show status node FLG-504 (Control electronics ready for VCB closing and panto raise)."
+  },
+  {
+    "id": 101,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to switch on flasher light ............... switch to be operated.",
+    "question_hi": "फ्लैशर लाइट चालू करने के लिए कौन सा स्विच ऑपरेट करें:",
+    "options": {
+      "A": "AFL",
+      "B": "BPFL",
+      "C": "BLFL",
+      "D": "BPVG"
+    },
+    "answer": "B",
+    "explanation": "Toggle switch BPFL manually turns on the twin amber flasher light units."
+  },
+  {
+    "id": 102,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In modified WAP-7 loco, ............. wheels are having parking brakes facility.",
+    "question_hi": "संशोधित WAP-7 लोको में किन पहियों में पार्किंग ब्रेक की सुविधा है:",
+    "options": {
+      "A": "2,6,7 & 11",
+      "B": "2 & 11",
+      "C": "1,4,5 & 8",
+      "D": "6 & 7"
+    },
+    "answer": "B",
+    "explanation": "In the modified lightened WAP-7 variant, parking brake units are reduced to Wheels 2 and 11."
+  },
+  {
+    "id": 103,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "3Ø loco is having .................... No. of 3 phase auxiliary motors in loco under frame.",
+    "question_hi": "अंडरफ्रेम में 3-फेज सहायक मोटरों की संख्या कितनी है:",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "12",
+      "D": "8"
+    },
+    "answer": "A",
+    "explanation": "2 motors (Main Compressor 1 and Main Compressor 2)."
+  },
+  {
+    "id": 104,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "If RS pressure is below 5.2 Kg/cm² and MCPs are not working, MCPA starts automatically provided BL key is in ............... position.",
+    "question_hi": "RS दबाव 5.2 से कम होने पर MCPA कब स्वतः शुरू होता है:",
+    "options": {
+      "A": "'C'",
+      "B": "'D'",
+      "C": "'C' or 'D'",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "MCPA automatic start logic engages whenever the key is active in either 'C' or 'D'."
+  },
+  {
+    "id": 105,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco before operating throttle, ensure ............... node information on screen.",
+    "question_hi": "थ्रॉटल चलाने से पहले स्क्रीन पर कौन सी नोड जानकारी सुनिश्चित करें:",
+    "options": {
+      "A": "FLG-504",
+      "B": "FLG-550",
+      "C": "FLG-570",
+      "D": "FLG-590"
+    },
+    "answer": "D",
+    "explanation": "Node FLG-590 confirms that traction converters are ready and tractive effort interlocks are satisfied."
+  },
+  {
+    "id": 106,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-03 belongs to ................. sub system.",
+    "question_hi": "SS-03 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Traction bogie-1",
+      "B": "Traction bogie-2",
+      "C": "Main power",
+      "D": "Harmonic filter"
+    },
+    "answer": "B",
+    "explanation": "SS-03 designates Traction Bogie-2."
+  },
+  {
+    "id": 107,
+    "page_no": 8,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, Oil cooling blower cools ................. & ................. oils.",
+    "question_hi": "ऑयल कूलिंग ब्लोअर किन तेलों को ठंडा करता है:",
+    "options": {
+      "A": "SR-1, SR-2",
+      "B": "TFP-1, TFP-2",
+      "C": "TFP oil & SR oil",
+      "D": "Traction motors"
+    },
+    "answer": "C",
+    "explanation": "Radiator elements cool both the Main Transformer (TFP) oil and Traction Converter (SR) coolant oil."
+  },
+  {
+    "id": 108,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to isolate truck No.1 (traction converter-1), keep ............ switch in ......... position.",
+    "question_hi": "ट्रक नंबर 1 को अलग करने के लिए स्विच को किस स्थिति में रखें:",
+    "options": {
+      "A": "154, I position",
+      "B": "154, II position",
+      "C": "154, Auto position",
+      "D": "154, I & II position"
+    },
+    "answer": "A",
+    "explanation": "Switch 154 placed on I position isolates Bogie-1."
+  },
+  {
+    "id": 109,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if battery voltage drops to ......... volts for 30 seconds, P-2 message appears.",
+    "question_hi": "बैटरी वोल्टेज 30 सेकंड के लिए कितने वोल्ट तक गिरने पर P-2 संदेश आता है:",
+    "options": {
+      "A": "92 Volts",
+      "B": "82 Volts",
+      "C": "90 Volts",
+      "D": "85 Volts"
+    },
+    "answer": "A",
+    "explanation": "An alert triggers at 92 Volts."
+  },
+  {
+    "id": 110,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, for application of parking brakes speed should be below ...................",
+    "question_hi": "पार्किंग ब्रेक लगाने के लिए गति कितने से नीचे होनी चाहिए:",
+    "options": {
+      "A": "5 Kmph",
+      "B": "15 Kmph",
+      "C": "1.5 Kmph",
+      "D": "Zero Kmph"
+    },
+    "answer": "D",
+    "explanation": "Parking brakes must only be applied when locomotive speed is at Zero km/h (dead stop)."
+  },
+  {
+    "id": 111,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-16 belongs to ................. sub system.",
+    "question_hi": "SS-16 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Cab-2",
+      "B": "Fire detection",
+      "C": "Memotel (Speedometer)",
+      "D": "Processor FLG-1"
+    },
+    "answer": "D",
+    "explanation": "Designated in early vehicle software for Vehicle Processor FLG-1 communication bus."
+  },
+  {
+    "id": 112,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In proportional working, maximum brake cylinder pressure in WAG-9 loco is ............... kg/cm².",
+    "question_hi": "WAG-9 में अधिकतम आनुपातिक ब्रेक सिलेंडर दबाव कितना होता है:",
+    "options": {
+      "A": "1.8 kg/cm²",
+      "B": "2.5 kg/cm²",
+      "C": "3.5 kg/cm²",
+      "D": "5 kg/cm²"
+    },
+    "answer": "B",
+    "explanation": "Distributor valve proportional limiting valve caps BC pressure at 2.5 kg/cm²."
+  },
+  {
+    "id": 113,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, normal position of panto selector switch is ..................",
+    "question_hi": "पेंटो सेलेक्टर स्विच की सामान्य स्थिति क्या होती है:",
+    "options": {
+      "A": "Norm",
+      "B": "I",
+      "C": "II",
+      "D": "Auto"
+    },
+    "answer": "D",
+    "explanation": "Switch 85 is kept on Auto so the rear pantograph raises automatically relative to directional travel."
+  },
+  {
+    "id": 114,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, location of Fire detection unit (FDU) is ...................",
+    "question_hi": "फायर डिटेक्शन यूनिट (FDU) कहाँ स्थित होती है:",
+    "options": {
+      "A": "SB-1",
+      "B": "SB-2",
+      "C": "HB-2",
+      "D": "Panel C"
+    },
+    "answer": "B",
+    "explanation": "Mounted inside auxiliary control cubicle SB-2."
+  },
+  {
+    "id": 115,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "3Ø loco is having ................. number of battery boxes.",
+    "question_hi": "3Ø लोको में बैटरी बॉक्स की संख्या कितनी होती है:",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "32"
+    },
+    "answer": "A",
+    "explanation": "Has 2 battery boxes (one on left underframe side, one on right underframe side)."
+  },
+  {
+    "id": 116,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "3Ø loco having ......... number of single phase 415V auxiliary motors.",
+    "question_hi": "एकल चरण 415V सहायक मोटरों की संख्या कितनी है:",
+    "options": {
+      "A": "12",
+      "B": "4",
+      "C": "8",
+      "D": "13"
+    },
+    "answer": "B",
+    "explanation": "4 motors (2 Machine Room Blowers MRB-1 & MRB-2, and 2 Scavenge Blowers for MRB)."
+  },
+  {
+    "id": 117,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to operate reverser ensure ......... node information on screen and MR pressure should be more than 6.4 kg/cm².",
+    "question_hi": "रिवर्सर को संचालित करने के लिए स्क्रीन पर कौन सी नोड जानकारी सुनिश्चित करें:",
+    "options": {
+      "A": "FLG-504",
+      "B": "FLG-550",
+      "C": "FLG-570",
+      "D": "FLG-590"
+    },
+    "answer": "B",
+    "explanation": "Node FLG-550 confirms pneumatic and electrical conditions are met for throwing reversers."
+  },
+  {
+    "id": 118,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, battery charger input MCB No. is .......... and located in ...................",
+    "question_hi": "बैटरी चार्जर इनपुट MCB No. है और कहाँ स्थित है:",
+    "options": {
+      "A": "100, HB-1",
+      "B": "100, HB-2",
+      "C": "112.1, SB-2",
+      "D": "112, SB-1"
+    },
+    "answer": "B",
+    "explanation": "Three-phase AC input breaker MCB 100 is located inside cubicle HB-2."
+  },
+  {
+    "id": 119,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, if speed is more than ......... % than loco MPS, only audio visual indications will appear.",
+    "question_hi": "गति लोको MPS से कितने % अधिक होने पर केवल दृश्य-श्रव्य संकेत दिखाई देंगे:",
+    "options": {
+      "A": "0.50",
+      "B": "5",
+      "C": "15",
+      "D": "50"
+    },
+    "answer": "A",
+    "explanation": "At 0.5% overspeed, the driver receives warning chimes without penalty brake intervention."
+  },
+  {
+    "id": 120,
+    "page_no": 9,
+    "topic": "3 Phase Loco",
+    "question_en": "Parking brake is provided to .................. wheels in WAG-9 loco.",
+    "question_hi": "WAG-9 लोको में किन पहियों में पार्किंग ब्रेक प्रदान किया जाता है:",
+    "options": {
+      "A": "1, 4, 5 & 8",
+      "B": "2, 6, 7 & 11",
+      "C": "2 & 11",
+      "D": "1, 6, 7 & 12"
+    },
+    "answer": "B",
+    "explanation": "Fitted on outer wheels of both bogies: 2, 6, 7 & 11."
+  },
+  {
+    "id": 121,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "Over current relay in 3Ø loco is ..................",
+    "question_hi": "3Ø लोको में ओवरकरेंट रिले कौन सा है:",
+    "options": {
+      "A": "QLM",
+      "B": "OCR-78",
+      "C": "QOP",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Primary catenary overcurrent protection relay is OCR-78."
+  },
+  {
+    "id": 122,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, SS-18 belongs to ................. sub system.",
+    "question_hi": "SS-18 का संबंध किस सब सिस्टम से है:",
+    "options": {
+      "A": "Fire detection",
+      "B": "MVR-86",
+      "C": "Processor FLG-1",
+      "D": "Processor FLG-2"
+    },
+    "answer": "D",
+    "explanation": "SS-18 designates vehicle logic Processor FLG-2."
+  },
+  {
+    "id": 123,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, normal position of ZTEL switch is ..................",
+    "question_hi": "ZTEL स्विच की सामान्य स्थिति क्या होती है:",
+    "options": {
+      "A": "ON",
+      "B": "OFF",
+      "C": "Zero",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Kept normally in OFF position."
+  },
+  {
+    "id": 124,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In 3Ø loco, to close the DJ, ensure ......... node information on screen.",
+    "question_hi": "डीजे बंद करने के लिए स्क्रीन पर कौन सी नोड जानकारी सुनिश्चित करें:",
+    "options": {
+      "A": "FLG-504",
+      "B": "FLG-550",
+      "C": "FLG-570",
+      "D": "FLG-590"
+    },
+    "answer": "A",
+    "explanation": "FLG-504 confirms vehicle ready to close main circuit breaker (VCB/DJ)."
+  },
+  {
+    "id": 125,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "When ZTEL is switched ON Tractive Effort (TE) is limited to ...... KN in WAG-9.",
+    "question_hi": "ZTEL ऑन होने पर ट्रैक्टिव एफर्ट कितने kN तक सीमित हो जाता है:",
+    "options": {
+      "A": "0.8 to 1.5",
+      "B": "300",
+      "C": "150",
+      "D": "458"
+    },
+    "answer": "B",
+    "explanation": "ZTEL limits tractive effort to 300 kN to protect wagon couplers from snatching."
+  },
+  {
+    "id": 126,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "GR stuck up in between notches, DJ will trip through .................",
+    "question_hi": "जीआर नॉचों के बीच अटकने पर डीजे किसके माध्यम से ट्रिप होगा:",
+    "options": {
+      "A": "Q-44",
+      "B": "Q-45",
+      "C": "Q-46",
+      "D": "Q-118"
+    },
+    "answer": "A",
+    "explanation": "In between notches, tap-changer interlock drops Q-44, tripping DJ after 0.6 seconds."
+  },
+  {
+    "id": 127,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In WAG-9 loco Panto selector switch is provided on .................",
+    "question_hi": "पेंटोग्राफ सिलेक्टर स्विच कहाँ दिया गया है:",
+    "options": {
+      "A": "Panel 'A'",
+      "B": "Panel 'C'",
+      "C": "Pneumatic Panel",
+      "D": ""
+    },
+    "answer": "A",
+    "explanation": "Switch 85 (ZPT) is mounted directly on driver Panel 'A'."
+  },
+  {
+    "id": 128,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In WAG-9 loco No. of positions of panto selector switch are .................",
+    "question_hi": "पेंटोग्राफ सिलेक्टर स्विच के कुल कितने स्थान होते हैं:",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "Five"
+    },
+    "answer": "C",
+    "explanation": "Has 4 positions: Auto, I, II, and 0 (isolated)."
+  },
+  {
+    "id": 129,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "ZBAN switch is provided on .................",
+    "question_hi": "ZBAN स्विच कहाँ दिया गया है:",
+    "options": {
+      "A": "Panel 'A'",
+      "B": "Panel 'C'",
+      "C": "Pneumatic Panel",
+      "D": "Desk B"
+    },
+    "answer": "A",
+    "explanation": "Located on driver Panel 'A'."
+  },
+  {
+    "id": 130,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "In WAG9 loco No. of positions of BLCP are .................",
+    "question_hi": "BLCP स्विच के कितने पोजीशन होते हैं:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "B",
+    "explanation": "Has 3 positions: OFF, AUTO, and MANUAL (DIRECT)."
+  },
+  {
+    "id": 131,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "To release the parking brake, Loco Pilot has to press .................",
+    "question_hi": "पार्किंग ब्रेक रिलीज करने के लिए क्या दबाना होगा:",
+    "options": {
+      "A": "BPCS",
+      "B": "BPPB",
+      "C": "BPVR",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "Push button BPPB."
+  },
+  {
+    "id": 132,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "Gear ratio of WAG-9 Loco is ..................",
+    "question_hi": "WAG-9 लोको का गियर अनुपात क्या है:",
+    "options": {
+      "A": "1:5.133",
+      "B": "14:123",
+      "C": "1:2.158",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "Standard bull gear to pinion ratio is 77:15 = 1:5.133."
+  },
+  {
+    "id": 133,
+    "page_no": 10,
+    "topic": "3 Phase Loco",
+    "question_en": "Secondary suspension vertical damper is provided .................",
+    "question_hi": "सेकेंडरी सस्पेंशन वर्टिकल डैम्पर कहाँ लगा होता है:",
+    "options": {
+      "A": "Axle journal and bogie frame",
+      "B": "Bogie frame and Loco body under frame",
+      "C": "None of the above",
+      "D": "Equalizing beam"
+    },
+    "answer": "B",
+    "explanation": "Installed between the Bogie frame and locomotive body underframe."
+  },
+  {
+    "id": 134,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "New wheel diameter of WAG9 Loco is ..................",
+    "question_hi": "WAG9 लोको का नया पहिया व्यास कितना होता है:",
+    "options": {
+      "A": "1092 mm",
+      "B": "1051 mm",
+      "C": "1016 mm",
+      "D": "1000 mm"
+    },
+    "answer": "A",
+    "explanation": "New wheel diameter is 1092 mm (condemning limit is 1016 mm)."
+  },
+  {
+    "id": 135,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Parking Brake cannot be activated if the speed of the Locomotive exceeds .................",
+    "question_hi": "किस गति से अधिक होने पर पार्किंग ब्रेक सक्रिय नहीं हो सकता:",
+    "options": {
+      "A": "1.5 Kmph",
+      "B": "5 Kmph",
+      "C": "10 Kmph",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Speed interlock prevents PB application above 5 km/h to avoid severe wheel flat spots."
+  },
+  {
+    "id": 136,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "In ABB loco fault message can be acknowledged by pressing .................",
+    "question_hi": "ABB लोको में फॉल्ट संदेश को स्वीकार करने के लिए क्या दबाएं:",
+    "options": {
+      "A": "BPFL",
+      "B": "BPFA",
+      "C": "",
+      "D": "BPVR"
+    },
+    "answer": "B",
+    "explanation": "Yellow push button BPFA."
+  },
+  {
+    "id": 137,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "BPPB is the switch for .................",
+    "question_hi": "BPPB किसके लिए स्विच है:",
+    "options": {
+      "A": "To avoid wheel slipping",
+      "B": "Push button switch for Parking brake",
+      "C": "Push button switch for D-gradation",
+      "D": ""
+    },
+    "answer": "B",
+    "explanation": "Push button switch for Parking brake."
+  },
+  {
+    "id": 138,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Is the BPFA switch for .................",
+    "question_hi": "BPFA स्विच किसके लिए है:",
+    "options": {
+      "A": "To avoid wheel slipping",
+      "B": "Push button switch for Parking brake",
+      "C": "Push button switch for fault acknowledgement",
+      "D": ""
+    },
+    "answer": "C",
+    "explanation": "Push button switch for fault acknowledgement."
+  },
+  {
+    "id": 139,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Failure mode operation switch in WAG-9 loco is ..................",
+    "question_hi": "WAG-9 लोको में विफलता मोड ऑपरेशन स्विच कौन सा है:",
+    "options": {
+      "A": "154",
+      "B": "237.1",
+      "C": "152",
+      "D": "160"
+    },
+    "answer": "C",
+    "explanation": "Rotary switch 152 is the Failure Mode Operation switch."
+  },
+  {
+    "id": 140,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Parking brake applied automatically by putting ..................",
+    "question_hi": "पार्किंग ब्रेक स्वचालित रूप से कब लागू होते हैं:",
+    "options": {
+      "A": "BL key from 'D' to 'OFF'",
+      "B": "Reverser on 'O'",
+      "C": "ZPT on 'UP'",
+      "D": "A-9 to emergency"
+    },
+    "answer": "A",
+    "explanation": "Moving master BL key from 'D' to 'OFF'."
+  },
+  {
+    "id": 141,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Pneumatic control key is provided on .................",
+    "question_hi": "वायवीय नियंत्रण कुंजी कहाँ प्रदान की जाती है:",
+    "options": {
+      "A": "Panel 'A'",
+      "B": "Panel 'C'",
+      "C": "Pneumatic Panel",
+      "D": "Roof"
+    },
+    "answer": "C",
+    "explanation": "Key 16-38 is mounted on the Pneumatic Panel."
+  },
+  {
+    "id": 142,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "Oil pump for converter-1 is provided near .................",
+    "question_hi": "कन्वर्टर 1 के लिए तेल पंप किसके पास दिया गया है:",
+    "options": {
+      "A": "BUR 1",
+      "B": "HB 1",
+      "C": "Oil cooling unit, traction/transformer/converter",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Located adjacent to Oil Cooling Unit-1 / Traction Converter-1."
+  },
+  {
+    "id": 143,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "The colour of BPPB is ..................",
+    "question_hi": "BPPB का रंग क्या है:",
+    "options": {
+      "A": "Green",
+      "B": "Red",
+      "C": "Yellow",
+      "D": "Blue"
+    },
+    "answer": "B",
+    "explanation": "Standard push button lamp housing color is Red."
+  },
+  {
+    "id": 144,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "In WAG-9 loco during priority 1 fault ..................",
+    "question_hi": "WAG-9 में प्रायोरिटी 1 फॉल्ट के दौरान क्या संकेत मिलता है:",
+    "options": {
+      "A": "Only BPFA will glow",
+      "B": "Only LSFI will flicker",
+      "C": "BPFA will glow and LSFI also flickers",
+      "D": ""
+    },
+    "answer": "C",
+    "explanation": "BPFA glows continuously and pilot lamp LSFI flickers rapidly."
+  },
+  {
+    "id": 145,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "If the Catenary voltage is out of limits, what indication will you get in WAG-9 Loco?",
+    "question_hi": "यदि कैटेनरी वोल्टेज सीमा से बाहर हो तो क्या संकेत मिलेगा:",
+    "options": {
+      "A": "U meter needle will deviate and LSDJ remain extinguish",
+      "B": "U meter needle will deviate and fault message will display on screen",
+      "C": "VCB will not open",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "explanation": "Voltmeter U-meter drops/spikes and diagnostic screen generates F0101P1 / Catenary Voltage Out of Limits."
+  },
+  {
+    "id": 146,
+    "page_no": 11,
+    "topic": "3 Phase Loco",
+    "question_en": "What will happen when Transformer oil temperature increases in WAG-9 Loco?",
+    "question_hi": "ट्रांसफार्मर तेल का तापमान अत्यधिक बढ़ने पर क्या होगा:",
+    "options": {
+      "A": "VCB will open and F0105P1 fault message will display on screen",
+      "B": "VCB will not open and F0106 P2 fault message will display on screen",
+      "C": "None of the above",
+      "D": "Panto will lower"
+    },
+    "answer": "A",
+    "explanation": "Protective thermostat drops VCB and generates F0105P1 (Transformer Oil Overtemperature)."
+  },
+  {
+    "id": 147,
+    "page_no": 12,
+    "topic": "3 Phase Loco",
+    "question_en": "MCB no 47.1/1 is provided in ..................",
+    "question_hi": "MCB नंबर 47.1/1 किस पैनल में दिया गया है:",
+    "options": {
+      "A": "SB 1 panel",
+      "B": "HB 2 panel",
+      "C": "HB 1 panel",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Main Compressor-1 protection breaker 47.1/1 is located inside HB-1 panel."
+  },
+  {
+    "id": 148,
+    "page_no": 12,
+    "topic": "3 Phase Loco",
+    "question_en": "BZ-V-O-F means ............................................................",
+    "question_hi": "BZ-V-O-F का अर्थ क्या है:",
+    "options": {
+      "A": "Buzzer for Vigilance, Over speed and Fire",
+      "B": "Buzzer for Voltage and Frequency",
+      "C": "Buzzer for VCB and OHE Failure",
+      "D": "None of the above"
+    },
+    "answer": "A",
+    "explanation": "Audio warning transducer BZ-V-O-F alerts the crew during Vigilance penalty cycles, locomotive Overspeed conditions, and Fire detection."
+  },
+  {
+    "id": 149,
+    "page_no": 12,
+    "topic": "3 Phase Loco",
+    "question_en": "MCB 112.1 is provided in ................... panel.",
+    "question_hi": "MCB 112.1 किस पैनल में प्रदान किया गया है:",
+    "options": {
+      "A": "SB 2 panel",
+      "B": "SB 1 panel",
+      "C": "HB 1 panel",
+      "D": "HB 2 panel"
+    },
+    "answer": "A",
+    "explanation": "The vital Central Electronics (CEL) battery control power breaker is located in SB-2 panel."
+  },
+  {
+    "id": 150,
+    "page_no": 12,
+    "topic": "3 Phase Loco",
+    "question_en": "If the Catenary voltage is out of limits than what indication will you get in WAG9Loco?",
+    "question_hi": "यदि कैटेनरी वोल्टेज सीमा से बाहर है तो क्या संकेत मिलेगा:",
+    "options": {
+      "A": "U meter needle will deviate and LSDJ remain extinguish",
+      "B": "Fault message will display on the screen",
+      "C": "None of the above",
+      "D": "Panto will drop instantly"
+    },
+    "answer": "A",
+    "explanation": "Voltmeter U-meter needle deviates to indicate anomalous catenary potential and VCB opens."
+  }
+]
