@@ -1646,8 +1646,8 @@
       "C": "1.5 Kmph",
       "D": "Zero Kmph"
     },
-    "answer": "D",
-    "explanation": "Parking brakes must only be applied when locomotive speed is at Zero km/h (dead stop)."
+    "answer": "A",
+    "explanation": "Parking brakes must only be applied when locomotive speed is below 5 km/h."
   },
   {
     "id": 111,
