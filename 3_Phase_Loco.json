@@ -26,8 +26,8 @@
       "C": "74",
       "D": "136"
     },
-    "answer": "D",
-    "explanation": "In 3-phase locos fitted with CCB/E-70 brake systems, cock 136 (Dead Engine Cock) is opened to allow train BP pressure to charge the locomotive auxiliary reservoir for proportional braking."
+    "answer": "B",
+    "explanation": "In 3-phase locos fitted with CCB/E-70 brake systems, cock 47 (Dead Engine Cock) is opened to allow train BP pressure to charge the locomotive auxiliary reservoir for proportional braking."
   },
   {
     "id": 3,
@@ -86,8 +86,8 @@
       "C": "160 ; 0",
       "D": "160 ; 1"
     },
-    "answer": "D",
-    "explanation": "Configuration switch 160 placed in position 1 engages Shunting Mode, which automatically limits the maximum locomotive speed to 15 km/h."
+    "answer": "C",
+    "explanation": "Configuration switch 160 placed in position 0 engages Shunting Mode, which automatically limits the maximum locomotive speed to 15 km/h."
   },
   {
     "id": 7,
