@@ -1166,7 +1166,7 @@
       "C": "Priority-2",
       "D": "Both Priority-1 & 2 faults at a time"
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": "Indicates a Priority-2 fault requiring acknowledgment."
   },
   {
