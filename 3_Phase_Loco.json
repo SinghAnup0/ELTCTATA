@@ -1266,7 +1266,7 @@
     "question_en": "In 3Ø loco, Auxiliary converter No 3 feeds ................. motors.",
     "question_hi": "सहायक कनवर्टर नंबर 3 किन मोटरों को फीड करता है:",
     "options": {
-      "A": "Three Ø scavenging blower-1&2",
+      "A": "scavenging blower-1&2",
       "B": "MCP-1 & 2",
       "C": "Battery charger",
       "D": "All the above"
